@@ -156,3 +156,4 @@ Commit 154 on 2025-07-28T10:48:34: style: Remove unused imports and variables
 Commit 155 on 2025-08-18T16:07:49: test: Add integration tests for the API endpoints
 Commit 156 on 2025-05-05T14:22:54: fix: Handle edge cases in input validation
 Commit 157 on 2025-12-09T11:06:36: fix: Resolve issue with memory leak
+Commit 158 on 2024-11-08T17:17:33: docs: Update README with new instructions
