@@ -24,3 +24,4 @@ Commit 22 on 2025-06-23T17:41:43: fix: Handle edge cases in input validation
 Commit 23 on 2025-05-23T14:46:07: fix: Correct bug in data processing pipeline
 Commit 24 on 2025-02-12T17:23:06: docs: Clarify API usage in the documentation
 Commit 25 on 2024-12-10T11:22:45: docs: Add more examples to the documentation
+Commit 26 on 2025-02-12T14:04:12: chore: Update build scripts
