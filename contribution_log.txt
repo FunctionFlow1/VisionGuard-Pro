@@ -253,3 +253,4 @@ Commit 251 on 2025-04-09T16:39:10: fix: Handle edge cases in input validation
 Commit 252 on 2025-01-30T16:47:43: chore: Update dependencies and configuration
 Commit 253 on 2025-07-30T11:20:46: feat: Add support for a new data format
 Commit 254 on 2025-01-24T16:43:46: docs: Update README with new instructions
+Commit 255 on 2025-05-15T15:25:43: chore: Update build scripts
