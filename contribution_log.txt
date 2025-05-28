@@ -234,3 +234,4 @@ Commit 232 on 2025-08-20T17:26:17: style: Refactor code for better readability
 Commit 233 on 2025-05-13T15:04:44: test: Add integration tests for the API endpoints
 Commit 234 on 2025-04-28T16:06:48: test: Add unit tests for new functionality
 Commit 235 on 2025-04-18T17:44:07: chore: Update dependencies and configuration
+Commit 236 on 2025-05-28T11:11:01: docs: Update README with new instructions
