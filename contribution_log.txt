@@ -26,3 +26,4 @@ Commit 24 on 2025-02-12T17:23:06: docs: Clarify API usage in the documentation
 Commit 25 on 2024-12-10T11:22:45: docs: Add more examples to the documentation
 Commit 26 on 2025-02-12T14:04:12: chore: Update build scripts
 Commit 27 on 2025-08-20T17:52:18: style: Apply black formatting to the codebase
+Commit 28 on 2025-06-05T14:57:52: style: Apply black formatting to the codebase
