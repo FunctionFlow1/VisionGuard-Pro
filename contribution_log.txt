@@ -153,3 +153,4 @@ Commit 151 on 2025-09-26T14:54:32: test: Add unit tests for new functionality
 Commit 152 on 2024-12-06T12:57:53: style: Remove unused imports and variables
 Commit 153 on 2025-04-16T10:24:24: feat: Implement new feature for core module
 Commit 154 on 2025-07-28T10:48:34: style: Remove unused imports and variables
+Commit 155 on 2025-08-18T16:07:49: test: Add integration tests for the API endpoints
