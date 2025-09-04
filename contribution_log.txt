@@ -103,3 +103,4 @@ Commit 101 on 2025-07-28T15:41:15: docs: Update README with new instructions
 Commit 102 on 2025-03-27T15:05:59: style: Apply black formatting to the codebase
 Commit 103 on 2026-02-04T15:06:01: feat: Implement user authentication
 Commit 104 on 2025-04-02T17:40:49: refactor: Optimize query performance
+Commit 105 on 2025-09-04T14:13:23: docs: Clarify API usage in the documentation
