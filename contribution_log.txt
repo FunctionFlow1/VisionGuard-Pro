@@ -116,3 +116,4 @@ Commit 114 on 2025-06-27T11:47:00: test: Add integration tests for the API endpo
 Commit 115 on 2025-04-18T15:10:34: style: Refactor code for better readability
 Commit 116 on 2025-03-18T15:54:27: test: Add unit tests for new functionality
 Commit 117 on 2025-12-19T13:01:48: docs: Clarify API usage in the documentation
+Commit 118 on 2025-09-09T15:52:27: test: Add integration tests for the API endpoints
