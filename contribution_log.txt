@@ -263,3 +263,4 @@ Commit 261 on 2025-10-31T09:39:04: test: Add unit tests for new functionality
 Commit 262 on 2026-01-23T11:19:51: style: Refactor code for better readability
 Commit 263 on 2025-11-05T10:20:38: test: Add unit tests for new functionality
 Commit 264 on 2025-07-14T13:59:02: fix: Resolve issue with memory leak
+Commit 265 on 2026-01-26T13:47:43: docs: Update README with new instructions
